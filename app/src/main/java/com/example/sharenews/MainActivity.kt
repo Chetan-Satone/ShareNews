@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity(), NewsItemClicked {
 
     }
     private fun fetchData() {
-        val url = "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=f7ab9993049a4f1fa493d33f23009cb6"
+        val url = "https://saurav.tech/NewsAPI/top-headlines/category/general/in.json"
         val jsonObjectRequest = JsonObjectRequest(
             Request.Method.GET,
             url,
