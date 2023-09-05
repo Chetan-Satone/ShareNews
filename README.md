@@ -1,7 +1,7 @@
 # ShareNews
 
-ShareNews is an android application which is used to display news of India.
-It fetch the news data via API call by using volley and glide libraries and show them in recyler view adapter.
+ShareNews is an android application that is used to display news about India.
+It fetch the news data via API call and using volley and glide libraries and show them in recyler view adapter.
 
 # Built With
 
