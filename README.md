@@ -8,7 +8,7 @@ It fetch the news data via API call and using volley and glide libraries and sho
 * Koltin - Programming Language used in App.
 * API call - An API call, or API request, is a message sent to a server asking an API to provide a service or information.
 * Volley - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster.
-* Recyler View - To Display data in a list format.
+* Recycler View - To Display data in a list format.
 
 # ScreenShot
 
